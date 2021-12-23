@@ -1,0 +1,16 @@
+{
+  "name": "pollsynoptic",
+  "version": "1.0.0",
+  "description": "Polls the Synoptic Mesonet API for the latest obs for one station",
+  "main": "pollSynoptic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Marcus Russi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.1.0"
+  }
+}
